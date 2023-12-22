@@ -1,6 +1,6 @@
 # python-ci-cd
 
-Example of CI/CD pipelines in Python using Github Actions
+Example of CI/CD pipelines in Python using Github Actions.
 
 ![Build status](https://github.com/oldstager/python-ci-cd/actions/workflows/main.yml/badge.svg)
 
